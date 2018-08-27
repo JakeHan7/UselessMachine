@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">UselessMachine</string>
+
+    <string name="app_name">Useless Machine</string>
+    <string name="switch_main">switch</string>
+    <string name="button_main">Self Destruct</string>
 </resources>
